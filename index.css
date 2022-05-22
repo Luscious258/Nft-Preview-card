@@ -1,0 +1,94 @@
+body{
+	background-color: hsl(217, 54%, 11%);
+	max-width: 430px;
+	width: 80%;
+	margin:auto;
+}
+
+.all{
+	font-family: Outfit;
+	background-color: hsl(216, 50%, 16%);
+	border-radius: 10px;
+	margin: 90px ;
+	padding: 15px;
+	height: 400px;
+}
+
+h1{
+	font-weight: 600;
+	font-size: 18px;
+	color: hsl(0, 0%, 100%);
+}
+
+.first{
+	font-size: 12px;
+	font-weight: 200;
+	color: hsl(215, 51%, 70%);
+    padding-right: 10px;
+}
+
+.second{
+	font-weight: 600;
+	color: hsl(178, 100%, 50%);
+	font-size: 12px;
+	width: 50%;
+	margin:0 ;
+}
+
+.third{
+	width: 50%;
+	text-align: right;
+	margin-left: 80px;
+	font-size: 12px;
+	font-weight: 400;
+	color: hsl(215, 51%, 70%);
+}
+
+hr{
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    margin: 15px 0 12px 0;
+}
+
+.exit{
+	font-size: 13px;
+	float: right;
+	padding-right: 40px;
+	padding-top: 3px;
+}
+img{
+	width: 100%;
+	border-radius: 10px;
+}
+
+.avatar{
+	width: 22px;
+	border: 1px solid white;
+}
+
+.clock{
+	width: 13px;
+}
+
+.ETH{
+	width: 7px;
+}
+
+.fl{
+	color:hsl(215, 51%, 70%) 
+}
+
+.sl{
+	color: hsl(178, 100%, 50%);
+}
+
+.attribution { 
+ 	font-size: 11px;
+ 	text-align: center; 
+}
+ 
+.attribution a { 
+ 	color: hsl(228, 45%, 44%); 
+}
